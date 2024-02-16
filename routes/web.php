@@ -114,5 +114,6 @@ Route::controller(PermissionController::class)->prefix('permission')->name('perm
     });
 });
 
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit necessitatibus enim corporis, quidem perspiciatis accusamus voluptatem ducimus ratione magnam soluta asperiores quas laudantium quam delectus praesentium, tempore, quibusdam perferendis! Quidem cum cupiditate nemo quaerat dolor alias, ad eveniet culpa temporibus odio. Hic temporibus sit dicta repudiandae! Corrupti adipisci laudantium labore eaque, ab accusamus id delectus eligendi laborum quas provident quasi iure molestiae maiores quibusdam quae voluptatibus exercitationem blanditiis sed ea. Dignissimos dicta dolorem hic veniam minima temporibus perspiciatis quod obcaecati voluptatem impedit. Laboriosam nulla alias officiis non delectus, veritatis autem?
 
 
