@@ -116,3 +116,10 @@ Route::controller(PermissionController::class)->prefix('permission')->name('perm
         Route::delete('destroy/{permission}', 'destroy')->name('destroy');
     });
 });
+
+Route::prefix('produk')->name('produk.')->group(function () {
+    Route::controller(tokoController::class)->group(function () {
+        Route::get('/', 'index')->name('detail');
+        Route::get('/detail', 'detail')->name('detail');
+    });
+});
